@@ -1,10 +1,33 @@
-<!-- Animated Dark Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Gulshan%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20|%20ETL%20Developer%20|%20Cloud%20Enthusiast&descAlignY=55&descAlign=50" />
-</p>
+<!-- Top Section with Profile Image -->
 
-<h1 align="center">Hi 👋, I'm Gulshan Kumar</h1>
-<h3 align="center">Data Engineer | Python • SQL • Linux • Cloud</h3>
+<table>
+<tr>
+<td width="35%">
+
+<img src="profile.png" width="250" style="border-radius:50%;" />
+
+</td>
+
+<td width="65%">
+
+<h1>Hi 👋, I'm Gulshan Kumar</h1>
+
+<h3>Data Engineer | Python • SQL • Linux • Cloud</h3>
+
+- 💼 Working as a **Data Engineer**
+- 🔄 Transitioned from Desktop Support to Data Engineering
+- 🐍 Strong in **Python & SQL**
+- 🐧 Hands-on experience with **Linux**
+- ☁️ Learning & Building on **AWS and Azure**
+- 📊 Passionate about **ETL, Data Pipelines & Data Warehousing**
+- 🚀 Goal: Become Advanced Data Engineer within 6 months
+- 📍 India
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
