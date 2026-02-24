@@ -1,57 +1,18 @@
-<!-- ================= HEADER + INLINE PROFILE ================= -->
+<!-- ================= PREMIUM HEADER ================= -->
 
-<table width="100%">
-<tr>
-<td colspan="2">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Gulshan%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Gulshan%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Engineer;Python+%7C+SQL+%7C+Linux+%7C+Cloud;Building+Scalable+Data+Pipelines;ETL+%7C+Automation+%7C+Warehousing" />
+</p>
 
-</td>
-</tr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gulshanx606&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<tr>
-
-<!-- LEFT SIDE PROFILE -->
-<td width="30%" align="center" valign="top">
-
-<br/>
-
-<img src="profile.png" width="200" style="border-radius:50%; border:4px solid #36BCF7;" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/gulshanx606">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.instagram.com/techwith_gk">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://wa.me/919580215026">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="mailto:gulshanrajnk@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=gulshanx606&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</td>
-
-<!-- RIGHT SIDE CONTENT -->
-<td width="70%" valign="top">
-
-<br/>
+---
 
 # Hi 👋 I'm Gulshan
 
@@ -60,32 +21,49 @@
 
 ---
 
-🚀 Designing scalable **Data Pipelines**  
-📊 Focused on **ETL & Data Warehousing**  
-☁️ Working with **AWS & Azure**  
-🐧 Strong Linux Environment Experience  
-🎯 Goal: Senior Data Engineer  
+## 🚀 What I Do
+
+- 🚀 Design scalable **Data Pipelines**
+- 📊 Build efficient **ETL workflows**
+- ☁️ Work with **AWS & Azure**
+- 🐧 Strong Linux environment experience
+- ⚡ Automate backend data processes
 
 ---
 
 ## 🧠 About Me
 
-I am a passionate Data Engineer who transitioned from Desktop Support into Data Engineering.
+I transitioned from Desktop Support into Data Engineering, which strengthened my system-level understanding and troubleshooting skills.
 
-I specialize in:
+I focus on building reliable, optimized, and production-ready data workflows.
 
-- Building ETL pipelines  
-- SQL performance optimization  
-- Cloud-based workflows  
-- Backend data automation  
-
-</td>
-</tr>
-</table>
+My goal is to grow into a Senior Data Engineer role.
 
 ---
 
-## 🚀 Tech Stack
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/gulshanx606">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/techwith_gk">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://wa.me/919580215026">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="mailto:gulshanrajnk@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,sql,linux,aws,azure,docker,git,github,vscode" />
